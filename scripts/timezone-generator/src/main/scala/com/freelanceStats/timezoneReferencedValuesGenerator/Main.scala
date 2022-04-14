@@ -88,7 +88,7 @@ object Main extends App {
       }
       .map{
         case Timezone(id, abbreviation, name, rawOffset, utcOffset) =>
-        s"""create (tz: Timezone{ id: "$id", name: "$name", abbreviation: "$abbreviation", utcOffset: "$utcOffset", utcOffsetRaw: "$rawOffset" });"""
+        s"""create (tz: Timezone{ id: "$id", name: "$name", abbreviation: "$abbreviation", utcOffset: "$utcOffset", utcOffsetRaw: $rawOffset });"""
           .stripMargin
           .appended('\n')
       }
