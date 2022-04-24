@@ -8,15 +8,20 @@ import akka.stream.alpakka.s3.scaladsl.S3
 import akka.stream.scaladsl.{Flow, Keep, Source, StreamConverters}
 import akka.util.ByteString
 import org.slf4j.LoggerFactory
-import play.api.libs.json.{JsObject, Json}
+import play.api.libs.json.{JsObject, Json, OFormat}
 
 import java.nio.file.{Files, Path}
 import scala.util.{Failure, Success}
 
-
 object Main extends App {
   import scala.concurrent.ExecutionContext.Implicits.global
 
+  case class Category(
+                     name: String,
+                     subcategories: Set[Category] = Set.empty
+                     )
+
+  implicit val categoryFormat: OFormat[Category] = Json.format[Category]
   implicit val system: ActorSystem = ActorSystem("script-actor-system")
   implicit val materializer: Materializer = Materializer.matFromSystem
 
@@ -28,30 +33,39 @@ object Main extends App {
 
   val flow =
     Flow[ListBucketResultContents]
-      .flatMapConcat{ contents =>
+      .flatMapConcat { contents =>
         S3
           .download(contents.bucketName, contents.key)
-          .collect{
-            case Some((source, _)) => source
+          .collect { case Some((source, _)) =>
+            source
           }
       }
-      .map(source => Json.parse(source.runWith(StreamConverters.asInputStream())).as[JsObject])
-      .mapConcat{ jobJson =>
+      .map(source =>
+        Json
+          .parse(source.runWith(StreamConverters.asInputStream()))
+          .as[JsObject]
+      )
+      .mapConcat { jobJson =>
         (jobJson \ "result" \ "jobs")
           .as[Seq[JsObject]]
-          .map{ job =>
-            (job \ "category" \ "name").as[String] -> (job \ "name").as[String]
+          .map { job =>
+            val categoryName = (job \ "category" \ "name").as[String]
+            val subCategory = Category((job \ "name").as[String])
+            categoryName -> Category(categoryName, Set(subCategory))
           }
       }
-      .fold(Map[String, Set[String]]()){ (map, entry) =>
+      .fold(Map[String, Category]()) { (map, entry) =>
         map
           .get(entry._1)
-          .fold{
-            map + (entry._1 -> Set(entry._2))
-          }{ set =>
-            map + (entry._1 -> (set + entry._2))
+          .fold {
+            map + entry
+          } { category =>
+            map + (entry._1 -> category.copy(
+              subcategories = category.subcategories ++ entry._2.subcategories
+            ))
           }
       }
+      .map(_.values)
       .map(Json.toJson(_))
       .map(Json.prettyPrint)
 

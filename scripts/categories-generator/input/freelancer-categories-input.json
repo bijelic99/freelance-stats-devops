@@ -1,0 +1,2608 @@
+[ {
+  "name" : "Engineering & Science",
+  "subcategories" : [ {
+    "name" : "Data Mining",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Finite Element Analysis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Internet of Things (IoT)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CAD/CAM",
+    "subcategories" : [ ]
+  }, {
+    "name" : "AI (Artificial Intelligence) HW/SW",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Medical Products",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Geotechnical Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Drones",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Circuit Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Health",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Wireless",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Natural Language",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Medical",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Biomedical Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Deep Learning",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Product Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PCB Design and Layout",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Physics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cryptography",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Civil Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Statistics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Electrical Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Mechanical Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Systems Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microbiology",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Solidworks",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Geospatial",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Algorithm",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Statistical Analysis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Embedded Systems",
+    "subcategories" : [ ]
+  }, {
+    "name" : "LoRa",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Engineering Mathematics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Consumer Products",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Astrophysics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "DevOps",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Medical Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "AutoCAD",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Mathematics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MATLAB",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Linear Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Project Scheduling",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Environmental Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Simulation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Security",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Scientific Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Robotics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PCB Layout",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Verilog / VHDL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Motor Control",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Automotive",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Chemical Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Arduino",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Acoustical Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bluetooth",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Structural Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Voice Assistance Devices",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Combinatorial Problem Solving",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Digital Forensics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Power Supply",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Robotic Process Automation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Processing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Science",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Home Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Matlab and Mathematica",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Telecommunications Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Machine Learning (ML)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Hardware",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microcontroller",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Electronics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Electronic Design",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Design, Media & Architecture",
+  "subcategories" : [ {
+    "name" : "Graphic Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tattoo Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3D Animation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Lightroom",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Fabric Printing Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Prezi",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Voice Acting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Neo4j",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Shopify Templates",
+    "subcategories" : [ ]
+  }, {
+    "name" : "eBook Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Audiobook Narration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "2D Drawing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Banner Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Tours",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Logo Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Animated Video Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "2D Animation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Post-editing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Templates",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3D Architecture",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3D Rendering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Flyer Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Maya",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cinema 4D",
+    "subcategories" : [ ]
+  }, {
+    "name" : "2D Layout",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Voice Over",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Photography",
+    "subcategories" : [ ]
+  }, {
+    "name" : "After Effects",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Audio Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe InDesign",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Flash",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SketchUp",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Brochure Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Audio Production",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Services",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Ads",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Interior Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Word",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Product Photography",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Floor Plan",
+    "subcategories" : [ ]
+  }, {
+    "name" : "UX / User Experience",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Music",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Character Illustration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Covers & Packaging",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Concept Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Editing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Format and Layout",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Zbrush",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Broadcasting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CSS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bootstrap",
+    "subcategories" : [ ]
+  }, {
+    "name" : "App Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sound Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Infrastructure Architecture",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Animation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Explainer Videos",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ActionScript",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Oil Painting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "360-degree video",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Book Cover Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Photoshop Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Building Architecture",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Audio Services",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Comics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Presentations",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Film Production",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Fashion Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Advertisement Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Visual Arts",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3D Modelling",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Voice Talent",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Landing Pages",
+    "subcategories" : [ ]
+  }, {
+    "name" : "2D Animation Explainer Video",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Photoshop",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Corporate Identity",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Illustration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sound Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Music Video",
+    "subcategories" : [ ]
+  }, {
+    "name" : "UI / User Interface",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Logo Animation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Autodesk",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Social Media Post Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Fashion Modeling",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Filmmaking",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Videography",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Autodesk Revit",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Icon Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Infographics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Book Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Caricature & Cartoons",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Front-end Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "T-Shirts",
+    "subcategories" : [ ]
+  }, {
+    "name" : "2D Drafting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Cards",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Acting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Website Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Fashion Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3D Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Photo Editing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "YouTube Video Editing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3D Model Maker",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Production",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Poster Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3ds Max",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Voice Artist",
+    "subcategories" : [ ]
+  }, {
+    "name" : "WordPress Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Illustrator",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Jobs for Anyone",
+  "subcategories" : [ {
+    "name" : "XXX",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Parcel Delivery",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Virtual Assistant",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Healthcare Education",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Travel Ready",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Local Job",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Pickup",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Freelance",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Delivery",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Inspections",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Odd Jobs",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Shopping",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Translation & Languages",
+  "subcategories" : [ {
+    "name" : "Norwegian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Korean",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ukrainian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Slovenian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tamil",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Japanese",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Spanish",
+    "subcategories" : [ ]
+  }, {
+    "name" : "German",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Arabic Translator",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Portuguese",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Italian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Urdu",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bulgarian Translator",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Romanian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Hungarian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Simplified Chinese (China)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Russian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Spanish (Spain)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Czech Translator",
+    "subcategories" : [ ]
+  }, {
+    "name" : "English (UK) Translator",
+    "subcategories" : [ ]
+  }, {
+    "name" : "English (US) Translator",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Interpreter",
+    "subcategories" : [ ]
+  }, {
+    "name" : "French Translator",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Serbian",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Subtitles & Captions",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Portuguese (Brazil)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Traditional Chinese (Hong Kong)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "English Grammar",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Polish",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Greek",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Hindi",
+    "subcategories" : [ ]
+  }, {
+    "name" : "English Spelling",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Swedish",
+    "subcategories" : [ ]
+  }, {
+    "name" : "French (Canadian)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Dutch Translator",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Trades & Services",
+  "subcategories" : [ {
+    "name" : "Courses",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Housework",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Drafting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Painting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Embroidery",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Extensions & Additions",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Teaching/Lecturing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Printer Repair",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Building Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Security Systems",
+    "subcategories" : [ ]
+  }, {
+    "name" : "General Labor",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bracket Installation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "House Cleaning",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Home Organization",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Data Entry & Admin",
+  "subcategories" : [ {
+    "name" : "Data Processing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft Outlook",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Customer Support",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Investment Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Technical Support",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Excel",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Entry",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Phone Support",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Spreadsheets",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Telephone Handling",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Extraction",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft Word",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Chat Operation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Video Upload",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Excel VBA",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Search",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Customer Service",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Email Handling",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Qualitative Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Article Submission",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Software Documentation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Typing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Answering Telephones",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Delivery",
+    "subcategories" : [ ]
+  }, {
+    "name" : "General Office",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Analytics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Transcription",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Excel Macros",
+    "subcategories" : [ ]
+  }, {
+    "name" : "BPO",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Call Center",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft Office",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bookkeeping",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Writing & Content",
+  "subcategories" : [ {
+    "name" : "Medical Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Short Stories",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Essay Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Academic Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PDF",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SEO Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Grant Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Reviews",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Creative Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "eBooks",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Social Media Copy",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Plan Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Case Study Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Content Creation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "English Translation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Technical Documentation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Survey Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Blog",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Medical Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Powerpoint",
+    "subcategories" : [ ]
+  }, {
+    "name" : "LaTeX",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Proposal Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Translation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Product Descriptions",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Fiction",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Book Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Research Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Editing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Copy Typing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Proofreading",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Wikipedia",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Content Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Resumes",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Content Strategy",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cartography & Maps",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Blog Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "WIKI",
+    "subcategories" : [ ]
+  }, {
+    "name" : "RFP Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Legal Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Technical Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Article Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Article Rewriting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Report Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Copywriting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Financial Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Communications",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ghostwriting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Compliance and Safety Procedures Writer",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Mobile Phones & Computing",
+  "subcategories" : [ {
+    "name" : "Mobile App Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Salesforce Lightning",
+    "subcategories" : [ ]
+  }, {
+    "name" : "iPad",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Kotlin",
+    "subcategories" : [ ]
+  }, {
+    "name" : "iPhone",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Geolocation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Android",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Telecommunications",
+  "subcategories" : [ {
+    "name" : "Physical Site Survey",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Floorplan Blueprinting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Discord",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Pre-inspection visits",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Product Sourcing & Manufacturing",
+  "subcategories" : [ {
+    "name" : "Supply Chain",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Buyer Sourcing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Computerized Embroidery",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CNC Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Patent Design Search",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Process Automation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "3D Printing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Patent Landscape",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Product Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Patent Validity Search",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Amazon",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Supplier Sourcing",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Sales & Marketing",
+  "subcategories" : [ {
+    "name" : "Competitor Analysis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Advertising",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sales Promotion",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Email Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Content Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Mailwizz",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Brand Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Influencer Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Facebook Ads",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Medical Devices Sales",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Channel Account Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Market Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Adsense",
+    "subcategories" : [ ]
+  }, {
+    "name" : "eBay",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Branding",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SendGrid",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Ads",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Enterprise Sales",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Facebook Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Klaviyo",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Instagram Ads",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ClickFunnels",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Healthcare Sales",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tiktok Ads",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Email Campaign",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Recruiting Sales",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Leads",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Field Sales",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sales Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Adwords",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Telemarketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Viral Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Market Analysis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ClickBank",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sales",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Mailchimp",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Social Media Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sales Account Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Digital Agency Sales",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Marketing Strategy",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Field Sales Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Search Engine Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CRM",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bulk Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Internet Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "TikTok",
+    "subcategories" : [ ]
+  }, {
+    "name" : "WooCommerce",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Internet Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Lead Generation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Instagram Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Shopping",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Social Video Marketing",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Websites, IT & Software",
+  "subcategories" : [ {
+    "name" : "Twitter",
+    "subcategories" : [ ]
+  }, {
+    "name" : "RESTful",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MongoDB",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Computer Security",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Docs",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Earth",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Rust",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Office 365",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SEO",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Coding",
+    "subcategories" : [ ]
+  }, {
+    "name" : "OAuth",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Nest.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Java",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Scala",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Netbeans",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Firebase",
+    "subcategories" : [ ]
+  }, {
+    "name" : "AJAX",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Apps Scripts",
+    "subcategories" : [ ]
+  }, {
+    "name" : "User Story Writing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Database Administration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "HTML5",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Magento 2",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Game Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Squid Cache",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Point of Sale",
+    "subcategories" : [ ]
+  }, {
+    "name" : "JSON",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Payment Gateway Integration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PHP Slim",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Slack",
+    "subcategories" : [ ]
+  }, {
+    "name" : "JUnit",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Server",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Webflow",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sketching",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Solidity",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Data Studio",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Process Simulation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "WPF",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bluetooth Low Energy (BLE)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Magento",
+    "subcategories" : [ ]
+  }, {
+    "name" : "React.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Typescript",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MVC",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Database Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Etherscan",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Linux",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Dart",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CSS2",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Chatbot",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Raspberry Pi",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cryptocurrency",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ruby on Rails",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Golang",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ethereum",
+    "subcategories" : [ ]
+  }, {
+    "name" : "OpenSSL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Social Networking",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Visual Basic for Apps",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Three.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Central",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Plugin",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Windows Desktop",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Apigee",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Open Cart",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Minecraft",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Network Monitoring",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Chrome",
+    "subcategories" : [ ]
+  }, {
+    "name" : "C++ Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Hosting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Amazon Product Launch",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Swing (Java)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PencilBlue CMS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google PageSpeed Insights",
+    "subcategories" : [ ]
+  }, {
+    "name" : "TradeStation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "OpenVPN",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Oracle",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Website Testing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Regular Expressions",
+    "subcategories" : [ ]
+  }, {
+    "name" : "VPN",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Spark",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Moodle",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft Azure",
+    "subcategories" : [ ]
+  }, {
+    "name" : "jQuery",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Unity 3D",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Dynamics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft Access",
+    "subcategories" : [ ]
+  }, {
+    "name" : "WordPress Plugin",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Acrobat",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Odoo",
+    "subcategories" : [ ]
+  }, {
+    "name" : "OpenCV",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Software Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Corel Draw",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ASP.NET",
+    "subcategories" : [ ]
+  }, {
+    "name" : "AWS Amplify",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Windows Server",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Flask",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Keras",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SQL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "API Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Salesforce App Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Website Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Objective C",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Pinterest",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Modeling",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Delphi",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Perl",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Integration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Litecoin",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Socket IO",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SMTP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Redux.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Monday.com",
+    "subcategories" : [ ]
+  }, {
+    "name" : "R Programming Language",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ASP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CSS3",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Arena Simulation Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Computer Vision",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MERN Stack",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Zapier",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Website Optimization",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Air",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Asterisk PBX",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Script Install",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Link Building",
+    "subcategories" : [ ]
+  }, {
+    "name" : "VoIP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "JavaFX",
+    "subcategories" : [ ]
+  }, {
+    "name" : "App Developer",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Pytorch",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web3.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Codeigniter",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Database Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Powershell",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Yii",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Wix",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Documentation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Face Recognition",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SIP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "VPS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Next.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ionic Framework",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Windows API",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Visualization",
+    "subcategories" : [ ]
+  }, {
+    "name" : "jQuery / Prototype",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Laravel",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Scraping",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Digital Marketing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Elasticsearch",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Automatic Number Plate Recognition (ANPR)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Backend Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "AutoHotkey",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Internet Security",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Elementor",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Prolog",
+    "subcategories" : [ ]
+  }, {
+    "name" : "NoSQL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Non-fungible Tokens (NFT)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "JSP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Kubernetes",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SEO Auditing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Instagram",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Social Media Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "UML Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : ".NET Core Web API",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Artificial Intelligence",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Apache",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Test Automation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Swift",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Services",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Search",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Network Administration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Prestashop",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Amazon Listings Optimization",
+    "subcategories" : [ ]
+  }, {
+    "name" : "iOS Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cloud Computing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "WordPress",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SAP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Metamask",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Linkedin",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft PowerBI",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Zoho",
+    "subcategories" : [ ]
+  }, {
+    "name" : "App Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google APIs",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Shopping Carts",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Git",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SVG",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CI/CD",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft SQL Server",
+    "subcategories" : [ ]
+  }, {
+    "name" : "TvOS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Xcode",
+    "subcategories" : [ ]
+  }, {
+    "name" : "C Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Security",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Smart Contracts",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ruby",
+    "subcategories" : [ ]
+  }, {
+    "name" : "DNS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tableau",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Virtual Reality",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Hyperledger",
+    "subcategories" : [ ]
+  }, {
+    "name" : "XAML",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Oracle APEX",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Xamarin",
+    "subcategories" : [ ]
+  }, {
+    "name" : "API Integration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "NoSQL Couch & Mongo",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Software Testing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Revit",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Vue.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Computer Science",
+    "subcategories" : [ ]
+  }, {
+    "name" : "C# Programming",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Power Automate",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Oracle Primavera",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Vue.js Framework",
+    "subcategories" : [ ]
+  }, {
+    "name" : ".NET",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Blockchain",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ASP.NET MVC",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Electronic Forms",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Angular 6",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PostgreSQL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Software Architecture",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Shopify Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Joomla",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Android Studio",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Website Build",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SPSS Statistics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Systems",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Modding",
+    "subcategories" : [ ]
+  }, {
+    "name" : "XML",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Assembly",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SQLite",
+    "subcategories" : [ ]
+  }, {
+    "name" : "RESTful API",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Sharepoint",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft Exchange",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Web Application",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Node.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Hyperledger Fabric",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Shopify",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe XD",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Qt",
+    "subcategories" : [ ]
+  }, {
+    "name" : "System Admin",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cross Browser",
+    "subcategories" : [ ]
+  }, {
+    "name" : "IT Operating Model",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CMS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Yii2",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Aspen HYSYS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "eLearning",
+    "subcategories" : [ ]
+  }, {
+    "name" : "DigitalOcean",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Financial Software Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Certified Ethical Hacking",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Funnel",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Alteryx",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Game Design",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Mobile Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Express JS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Apple Xcode",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Knockout.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Collection",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Premiere Pro",
+    "subcategories" : [ ]
+  }, {
+    "name" : "UNIX",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Flutter",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Learning Management Solution (LMS) Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ubuntu",
+    "subcategories" : [ ]
+  }, {
+    "name" : "YouTube",
+    "subcategories" : [ ]
+  }, {
+    "name" : "IT Project Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Microsoft Project",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Facebook Pixel",
+    "subcategories" : [ ]
+  }, {
+    "name" : "User Interface / IA",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Redis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Drawing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bash Scripting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Network Security",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Red Hat",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Debugging",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Software Engineering",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Desktop Application",
+    "subcategories" : [ ]
+  }, {
+    "name" : "DApps",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Angular",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Testing / QA",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Amazon Web Services",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Frontend Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Dynamic 365",
+    "subcategories" : [ ]
+  }, {
+    "name" : "React Native",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Illustrator",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Maps API",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Micropython",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Mobile App Testing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Unreal Engine",
+    "subcategories" : [ ]
+  }, {
+    "name" : "GeoServer",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SSL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "NLP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "API",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Adobe Audition",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PHP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Telegram API",
+    "subcategories" : [ ]
+  }, {
+    "name" : "NetSuite",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Mac OS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Nginx",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MySQL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tibco Spotfire",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Figma",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Apple Safari",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Unity",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Agile Project Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Django",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Plus",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Parallel Processing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Cloud Platform",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Learning Management Systems (LMS)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Geographical Information System (GIS)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "D3.js",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SSIS (SQL Server Integration Services)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "J2EE",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Android SDK",
+    "subcategories" : [ ]
+  }, {
+    "name" : "CakePHP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cisco",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tailwind CSS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Shell Script",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tensorflow",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Object Oriented Programming (OOP)",
+    "subcategories" : [ ]
+  }, {
+    "name" : ".NET Core",
+    "subcategories" : [ ]
+  }, {
+    "name" : "cPanel",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Drupal",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Blender",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Amazon FBA",
+    "subcategories" : [ ]
+  }, {
+    "name" : "PhoneGap",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Android App Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MuleSoft",
+    "subcategories" : [ ]
+  }, {
+    "name" : "AngularJS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Python",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Cinematography",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MariaDB",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Azure",
+    "subcategories" : [ ]
+  }, {
+    "name" : "eCommerce",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Power BI",
+    "subcategories" : [ ]
+  }, {
+    "name" : "LESS/Sass/SCSS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Automation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Computer Graphics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Visual Basic",
+    "subcategories" : [ ]
+  }, {
+    "name" : "MEAN Stack",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Penetration Testing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "VB.NET",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google App Engine",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Crestron",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Content Management System (CMS)",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Solutions Architecture",
+    "subcategories" : [ ]
+  }, {
+    "name" : "White Hat SEO",
+    "subcategories" : [ ]
+  }, {
+    "name" : "JavaScript",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Metatrader",
+    "subcategories" : [ ]
+  }, {
+    "name" : "HTML",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Google Sheets",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ETL",
+    "subcategories" : [ ]
+  }, {
+    "name" : "OCR",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Java Spring",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Full Stack Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Bitcoin",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Health & Medicine",
+  "subcategories" : [ {
+    "name" : "Diet",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Food Safety",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Public Health",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Business, Accounting, Human Resources & Legal",
+  "subcategories" : [ {
+    "name" : "Operations Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Real Estate",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Fraud Detection",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Nutrition",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Startup Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Investment Banking",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Talent Acquisition",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Logistics Company",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Workflow Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Corporate Law",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Immigration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Project Planning",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Management Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Economics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Legal",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Analysis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Budgeting and Forecasting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Christmas",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Salesforce.com",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Capital Markets",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Requirement Documentation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Closer",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Protection",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Trademark",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Health Plans Digitization",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tax Law",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Property Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Medical Billing and Coding",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Data Analysis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Plans",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Paralegal Services",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Operations Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "LinkedIn Recruiting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Planning Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "ERP",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Financial Accounting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Valuation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Legal Research",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Immigration Law",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Leadership Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Payroll",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Education & Tutoring",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Trademark Registration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Entrepreneurship",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Patents",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Financial Markets",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Project Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Development",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Trading",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Visa / Immigration",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Econometrics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Customer Experience",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Technical Recruiter",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Audit",
+    "subcategories" : [ ]
+  }, {
+    "name" : "SAS",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Ecological Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Account Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "External Auditing",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Value Based Healthcare",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Contracts",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Development Consulting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Medical Translation",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Health Care Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Intuit QuickBooks",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Crystal Reports",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Accounting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Financial Analysis",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Event Management",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Employment Law",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Health Planning",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Administrative Support",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Business Coaching",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Training",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Finance",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Appointment Setting",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Human Resources",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Recruitment",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Customer Strategy",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Tax Accounting",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Freight, Shipping & Transportation",
+  "subcategories" : [ {
+    "name" : "Car",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Dropshipping",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Van Courier",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Motorcycle Courier",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Courier",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Car Courier",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Logistics",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Container Transport",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Import/Export",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Car Driving",
+    "subcategories" : [ ]
+  } ]
+}, {
+  "name" : "Education",
+  "subcategories" : [ {
+    "name" : "German Tutoring",
+    "subcategories" : [ ]
+  }, {
+    "name" : "English Tutoring",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Computer Science Tutoring",
+    "subcategories" : [ ]
+  }, {
+    "name" : "English Teaching",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Programming Help",
+    "subcategories" : [ ]
+  }, {
+    "name" : "Chemistry Tutoring",
+    "subcategories" : [ ]
+  } ]
+} ]
