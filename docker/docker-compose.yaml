@@ -57,6 +57,24 @@ services:
       NEO4J_AUTH: neo4j/password
       NEO4J_dbms_memory_pagecache_size: 2G
 
+  db:
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: toor
+      MYSQL_DATABASE: freelance-stats
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysqlData:/var/lib/mysql
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+
 volumes:
   minioImage:
     driver: local
@@ -67,4 +85,6 @@ volumes:
   rabbitmqLogs:
     driver: local
   neo4jData:
+    driver: local
+  mysqlData:
     driver: local
