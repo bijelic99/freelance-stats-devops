@@ -58,18 +58,20 @@ services:
       NEO4J_dbms_memory_pagecache_size: 2G
 
   mongo:
-    image: mongo
+    image: mongo:5.0
     restart: always
     environment:
-      MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: toor
+      #MONGO_INITDB_ROOT_USERNAME: root
+      #MONGO_INITDB_ROOT_PASSWORD: toor
       MONGO_INITDB_DATABASE: freelance-stats
+    ports:
+      - 27017:27017
     volumes:
       - "mongoData:/data/db"
 
 
   mongo-express:
-    image: mongo-express
+    image: mongo-express:0.54.0
     restart: always
     ports:
       - 8081:8081
