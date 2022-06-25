@@ -16,9 +16,9 @@ object Main extends App {
   import scala.concurrent.ExecutionContext.Implicits.global
 
   case class Category(
-                     name: String,
-                     subcategories: Set[Category] = Set.empty
-                     )
+      name: String,
+      subcategories: Set[Category] = Set.empty
+  )
 
   implicit val categoryFormat: OFormat[Category] = Json.format[Category]
   implicit val system: ActorSystem = ActorSystem("script-actor-system")
@@ -35,15 +35,18 @@ object Main extends App {
   )
     .map(path => Json.parse(Files.newInputStream(path)))
 
-  val categoryToCypher: ((Category, String), Option[Category]) => Seq[String] = {
+  val categoryToCypher
+      : ((Category, String), Option[Category]) => Seq[String] = {
     case (category, idSuffix) -> Some(parent) =>
       Seq(
-        s"""match (parent: Category{ name: "${parent.name}" }) merge (c: Category{ id: "category-$idSuffix", name: "${category.name}" }) merge (c)-[:IS_SUBCATEGORY_OF]->(parent);\n"""
+        s"""match (parent: Category{ name: "${parent.name}" }) merge (c: Category{ id: "category-$idSuffix", name: "${category.name}", topLevel: false }) merge (c)-[:IS_SUBCATEGORY_OF]->(parent);\n"""
       )
     case (category, idSuffix) -> None =>
       Seq(
-        s"""merge (c: Category{ id: "category-$idSuffix", name: "${category.name}" });\n"""
-      ) ++ category.subcategories.zipWithIndex.flatMap( x =>categoryToCypher(x._1 -> s"$idSuffix-${x._2}", Some(category)))
+        s"""merge (c: Category{ id: "category-$idSuffix", name: "${category.name}", topLevel: true });\n"""
+      ) ++ category.subcategories.zipWithIndex.flatMap(x =>
+        categoryToCypher(x._1 -> s"$idSuffix-${x._2}", Some(category))
+      )
   }
 
   val flow =
