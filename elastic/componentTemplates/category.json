@@ -10,13 +10,16 @@
             },
             "name": {
               "type": "keyword"
+            },
+            "topLevel": {
+              "type": "boolean"
             }
           }
         }
       }
     }
   },
-  "version": 1,
+  "version": 2,
   "_meta": {
     "description": "Category mapping"
   }
