@@ -1,0 +1,58 @@
+{
+    "index_patterns": [
+        "dashboard-index*"
+    ],
+    "template": {
+        "mappings": {
+            "_source": {
+                "enabled": true
+            },
+            "properties": {
+                "id": {
+                    "type": "keyword"
+                },
+                "ownerId": {
+                    "type": "keyword"
+                },
+                "usersWithAccess": {
+                    "type": "keyword"
+                },
+                "name": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "chartNames": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "chartSources": {
+                    "type": "keyword"
+                },
+                "deleted": {
+                    "type": "boolean"
+                },
+                "createdAt": {
+                    "type": "date"
+                },
+                "modifiedAt": {
+                    "type": "date"
+                },
+                "public": {
+                    "type": "boolean"
+                }
+            }
+        }
+    },
+    "version": 1,
+    "_meta": {
+        "description": "Template for 'dashboard-index'"
+    }
+}
