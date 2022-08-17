@@ -13,3 +13,5 @@ curl -XPUT http://localhost:9200/_component_template/payment --data "@../../elas
 curl -XPUT http://localhost:9200/_index_template/job-index --data "@../../elastic/indexTemplates/job-index.json" -H 'Content-Type: application/json'
 
 curl -XPUT http://localhost:9200/_index_template/dashboard-index --data "@../../elastic/indexTemplates/dashboard-index.json" -H 'Content-Type: application/json'
+
+curl -XPUT http://localhost:9200/_index_template/user-index --data "@../../elastic/indexTemplates/user-index.json" -H 'Content-Type: application/json'

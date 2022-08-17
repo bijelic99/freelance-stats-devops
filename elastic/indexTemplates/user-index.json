@@ -1,0 +1,59 @@
+{
+    "index_patterns": [
+        "user-index*"
+    ],
+    "template": {
+        "mappings": {
+            "_source": {
+                "enabled": true
+            },
+            "properties": {
+                "id": {
+                    "type": "keyword"
+                },
+                "username": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "email": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "firstName": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "lastName": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "birthDate": {
+                    "type": "date"
+                },
+                "deleted": {
+                    "type": "boolean"
+                }
+            }
+        }
+    },
+    "version": 2,
+    "_meta": {
+        "description": "Template for 'user-index'"
+    }
+}
